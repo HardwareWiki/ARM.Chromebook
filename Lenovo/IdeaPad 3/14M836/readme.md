@@ -16,3 +16,6 @@ home: https://www.ebay.com/str/wooodeals
 
 index:
 - https://www.ebay.com/sch/i.html?ssPageName=&_ssn=littlesbigfinds
+
+### category: Laptops & Netbooks
+index: https://www.ebay.com/sch/175672/i.html?ssPageName=&_ssn=littlesbigfinds&_sop=15
