@@ -11,4 +11,5 @@ by: device codename:
 
 by: SoC make
 - https://wiki.postmarketos.org/wiki/Category:MediaTek
-- https://wiki.postmarketos.org/index.php?search=Rockchip&title=Special%3ASearch&go=Go
+- https://wiki.postmarketos.org/wiki/Category:Rockchip
+  - https://wiki.postmarketos.org/index.php?search=Rockchip&title=Special%3ASearch&go=Go
