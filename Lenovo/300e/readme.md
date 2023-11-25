@@ -1,3 +1,6 @@
+# spec:
+https://www.google.com/search?q=lenovo+300e+chromebook+soc
+
 # Market
 sch: https://www.ebay.com/sch/i.html?_from=R40&_nkw=chromebook+300e&_sacat=175672&_sop=15
 
